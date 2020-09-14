@@ -3,6 +3,8 @@
 
 ## Conservation of piRNAs in insect ovary cells
 
+![Flux](https://user-images.githubusercontent.com/62522202/93128423-be531300-f6cf-11ea-9f04-753e8591e737.PNG)
+
 For this study, the programming languages used are: R (“Biostrings”, “VennDiagram”, “venn”, “ggplot2”, “reshape2”, and “UpSetR”), Bash (”SRA Toolkit”, “fastqc”, “cutadapt”, “trim_galore”) and Python (“pandas”, “wget”, “glob”, “shutil”, “os”, “Bio”). Also, scrips from Perl were used (“TBr2_duster” and “TBr2_collapse” from NGS ToolBox).
 
 * Sra_Filter.py -->
