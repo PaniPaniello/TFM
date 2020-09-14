@@ -54,10 +54,10 @@ For this study, the programming languages used are: R (“Biostrings”, “Venn
  This R script creates a table with all libraries and their respective sequences resultant from the cutoffs applied.
 
 * Merge scripts -->
- The next simple scripts merge different libraries to create library pools.
- * Merge_panoistic.sh
- * Merge_polytrophic.sh
- * Merge_telotrophic.sh* 
+The next simple scripts merge different libraries to create library pools.
+  * Merge_panoistic.sh
+  * Merge_polytrophic.sh
+  * Merge_telotrophic.sh
 * Venn scripts -->
  The following scripts perform a comparsion of the content of different libraries and illustrates the results using Venn Diagrams or UpSet Intersection Barplots:
   * VennPano.R
